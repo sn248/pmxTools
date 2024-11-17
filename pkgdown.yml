@@ -1,0 +1,9 @@
+pandoc: 3.1.11
+pkgdown: 2.1.1
+pkgdown_sha: ~
+articles:
+  pk-curves: pk-curves.html
+last_built: 2024-11-17T15:51Z
+urls:
+  reference: https://kestrel99.github.io/pmxTools/reference
+  article: https://kestrel99.github.io/pmxTools/articles
